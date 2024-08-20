@@ -1,10 +1,9 @@
-👋 Hola, soy un estudiante de 7mo semestre de ingeniería de sistemas y computación de la Universidad Tecnológica de Bolívar 🇨🇴, con alto interés en el desarrollo de software 💻 y en la ciencia de datos 📊. Tengo gran capacidad para adaptarme a entornos competitivos y generar resultados que se alineen a los objetivos propuestos 🎯. Me caracterizo por mi facilidad para el trabajo en equipo 🤝, mi entusiasmo por aprender 📚, colaborar 🙌 y buscar desafíos y oportunidades de crecimiento continuo 🚀.
+👋 Hola, soy un estudiante de 8vo semestre de ingeniería de sistemas y computación de la Universidad Tecnológica de Bolívar 🇨🇴, con alto interés en el desarrollo de software 💻 y en la ciencia de datos 📊. Tengo gran capacidad para adaptarme a entornos competitivos y generar resultados que se alineen a los objetivos propuestos 🎯. Me caracterizo por mi facilidad para el trabajo en equipo 🤝, mi entusiasmo por aprender 📚, colaborar 🙌 y buscar desafíos y oportunidades de crecimiento continuo 🚀.
 
 👩‍💻 Tengo habilidades en:
 
 - Python 🐍
 - R 📈
-- C++ 🚀
 - Java ☕
 - JavaScript 🌐
 - React ⚛️
